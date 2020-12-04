@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\sshar\source\repos\randomsimp\randomsimp\Source.cpp(265,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sshar\source\repos\randomsimp\randomsimp\Source.cpp(268,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sshar\source\repos\randomsimp\randomsimp\Source.cpp(307,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sshar\source\repos\randomsimp\randomsimp\Source.cpp(309,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sshar\source\repos\randomsimp\randomsimp\Source.cpp(429,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\sshar\source\repos\randomsimp\randomsimp\Source.cpp(484,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sshar\source\repos\randomsimp\randomsimp\Source.cpp(495,20): warning C4018: '<': signed/unsigned mismatch
+  randomsimp.vcxproj -> C:\Users\sshar\source\repos\randomsimp\Debug\randomsimp.exe
